@@ -18,7 +18,8 @@ Pricing pressures from competitors has affected profitability making competitive
 Network quality and performance issues that influence customer satisfaction, which leads to dissatisfaction and churning.
 Difficulty in building  and maintaining customer loyalty.
 # Why Churn Prediction
-<img width="118*2000" alt="image" src="https://github.com/user-attachments/assets/2cb6ae82-807d-4da6-899a-721ddcef9480" />
+<img width="933" alt="image" src="https://github.com/user-attachments/assets/3c20c443-3885-4891-b653-70ad0bd83997" />
+
 
 Churn prediction is a strategy that uses customer data to identify clients who are least likely to renew their contracts. The significance of initiating this project lies in its potential to address the aforementioned challenges and enhance Reder Telecom's operations. Here are the top reasons that underline the importance of this project:
 

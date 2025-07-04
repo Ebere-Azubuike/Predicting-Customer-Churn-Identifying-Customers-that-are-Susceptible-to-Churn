@@ -102,6 +102,26 @@ Timestamp: The timestamp indicating when the data was recorded for the customer.
 4. Splitted the data into training and testing subsets
 5. Removed irrelevant features
 
-# Mchine Learning Models
+# Machine Learning Models
 1. Logistic Regression
 2. Decision Tree
+# Metrics for evaluation includes
+1. Accuracy Score
+2. Precision Score
+3. Recall Score
+4. F1 Score
+
+****For modelling using Logistic Regression and Decision Tree, the following outcomes were gotten
+# A. Evaluation Using Train and and validation evaluation on dataset.
+For Accuracy score: the Decision Tree model performed slightly better
+For Precision score: the Decision Tree model performed slightly better
+For Recall score: the Logistic Regression model performed slightly better
+For F1 score: the Decision Tree model performed slightly better.
+
+# B. Evaluation the Test score 
+For Accuracy score: the Decision Tree model performed slightly better
+For Precision score: the Decision Tree model performed slightly better
+For Recall score: the Decision Tree model performed slightly better
+For F1 score: the Decision Tree model performed slightly better
+
+

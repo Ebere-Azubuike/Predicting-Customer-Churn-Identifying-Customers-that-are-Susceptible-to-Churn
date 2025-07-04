@@ -93,3 +93,10 @@ Churn Label: A binary label indicating whether the customer has churned (1 for c
 Timestamp: The timestamp indicating when the data was recorded for the customer.
 
 
+**Data Preprocessing and Feature Engineering**
+
+1. Created new features that may have predictive power
+2. Converted categorical variables to numerical variables, using encoding techniques e.g mail = 1, sms =2, because ML works with numbers
+3. Scaled or normalized variables if necessary
+4. Splitted the data into training and testing subsets
+5. Removed irrelevant features

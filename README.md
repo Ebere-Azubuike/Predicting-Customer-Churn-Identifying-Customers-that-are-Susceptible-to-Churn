@@ -18,7 +18,7 @@ Pricing pressures from competitors has affected profitability making competitive
 Network quality and performance issues that influence customer satisfaction, which leads to dissatisfaction and churning.
 Difficulty in building  and maintaining customer loyalty.
 # Why Churn Prediction
-<img width="933" alt="image" src="https://github.com/user-attachments/assets/3c20c443-3885-4891-b653-70ad0bd83997" />
+<img width="143" alt="image" src="https://github.com/user-attachments/assets/3c20c443-3885-4891-b653-70ad0bd83997" />
 
 
 Churn prediction is a strategy that uses customer data to identify clients who are least likely to renew their contracts. The significance of initiating this project lies in its potential to address the aforementioned challenges and enhance Reder Telecom's operations. Here are the top reasons that underline the importance of this project:
@@ -111,17 +111,23 @@ Timestamp: The timestamp indicating when the data was recorded for the customer.
 3. Recall Score
 4. F1 Score
 
-****For modelling using Logistic Regression and Decision Tree, the following outcomes were gotten
+**For modelling using Logistic Regression and Decision Tree, the following outcomes were gotten**
 # A. Evaluation Using Train and and validation evaluation on dataset.
 For Accuracy score: the Decision Tree model performed slightly better
+
 For Precision score: the Decision Tree model performed slightly better
+
 For Recall score: the Logistic Regression model performed slightly better
+
 For F1 score: the Decision Tree model performed slightly better.
 
 # B. Evaluation the Test score 
 For Accuracy score: the Decision Tree model performed slightly better
+
 For Precision score: the Decision Tree model performed slightly better
+
 For Recall score: the Decision Tree model performed slightly better
+
 For F1 score: the Decision Tree model performed slightly better
 
 

@@ -37,32 +37,59 @@ Churn prediction is a strategy that uses customer data to identify clients who a
 The dataset available from the company contains the following information:
 
 Customer ID: A unique identifier for each customer.
+
 Name: The name of the customer.
+
 Age: The age of the customer.
+
 Gender: The gender of the customer.
+
 Location: The location or city where the customer is based.
+
 Email: The email address of the customer.
+
 Phone: The phone number of the customer.
+
 Address: The postal address of the customer.
+
 Segment: The customer segment or category to which the customer belongs (e.g., Segment A, Segment B, Segment C).
+
 Service Interactions: A list of dictionaries representing the customer's interactions with customer service. Each dictionary includes the type of interaction (e.g., Call, Email, Chat) and the date of the interaction.
+
 Type: Type of service, it could be Call, Email or Chat.
+
 Date: Date of the service interaction.
+
 Payment History: A list of dictionaries representing the customer's payment history. Each dictionary includes the payment method (e.g., Credit Card, PayPal) and the number of late payments.
+
 Method: Payment method, can either be Credit Card, PayPal or Bank Transfer.
+
 Late Payments: Number of late payments.
+
 Engagement Metrics: A dictionary containing engagement metrics, such as the number of logins and the frequency of engagement (e.g., Daily, Weekly, Monthly).
+
 Logins: The number of logins the user made.
+
 Frequency: How often a customer logs in to the platform. Could be Daily, Weekly or Monthly.
+
 Feedback: Feedback provided by the customer, including a rating (e.g., 1 to 5) and a comment.
+
 Rating: A value between 1 and 5 that indicates the customer’s feedback rating.
+
 Comment: The comment left by the customer for the feedback.
+
 Marketing Communication: A list of dictionaries representing the customer's history of marketing communication, including dates when emails were sent, opened, and clicked.
+
 Email Sent: Date when email was sent.
+
 Email Opened: Date when email was opened.
+
 Email Clicked: Date when email was clicked.
+
 NPS: The Net Promoter Score (NPS) of the customer, which measures customer loyalty and satisfaction on a scale of 0 to 10.
+
 Churn Label: A binary label indicating whether the customer has churned (1 for churn, 0 for no churn).
+
 Timestamp: The timestamp indicating when the data was recorded for the customer.
 
 

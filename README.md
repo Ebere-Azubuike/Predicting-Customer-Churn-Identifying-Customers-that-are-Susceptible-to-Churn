@@ -138,7 +138,7 @@ They both performed well at predicting customers that did not churn
 
 Howecer the Decision Tree performs better at predicting customers that churned.
 
-# CONCLUSION
+# CONCLUSION & RECOMMENDATIONS
 **The parameters that are most important in determining whether or not a customer will churn are:**
 
 1. The number of Service Interactions the customer has had with customer service through Call, Email and Chat

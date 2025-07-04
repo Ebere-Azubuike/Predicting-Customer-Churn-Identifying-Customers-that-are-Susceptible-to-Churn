@@ -1,4 +1,5 @@
-# Predicting-Customer-Churn-Identifying-Customers-that-are-Susceptible-to-Churn
+# Predicting-Customer-Churn
+**Identifying-Customers-that-are-Susceptible-to-Churn**
 # Project Objectives
 The primary objective of this project is to develop a predictive model that can accurately forecast customer churn within the telecommunications industry. Specifically, the project aims to leverage historical customer data and relevant features to create a machine learning model capable of identifying customers who are likely to churn. The model's performance will be assessed using appropriate evaluation metrics. It includes data collection, Exploratory data analysis (EDA), feature engineering, model training, evaluation and documentation.
 
@@ -18,7 +19,7 @@ Pricing pressures from competitors has affected profitability making competitive
 Network quality and performance issues that influence customer satisfaction, which leads to dissatisfaction and churning.
 Difficulty in building  and maintaining customer loyalty.
 # Why Churn Prediction
-<img width="143" alt="image" src="https://github.com/user-attachments/assets/3c20c443-3885-4891-b653-70ad0bd83997" />
+<img width="193" alt="image" src="https://github.com/user-attachments/assets/3c20c443-3885-4891-b653-70ad0bd83997" />
 
 
 Churn prediction is a strategy that uses customer data to identify clients who are least likely to renew their contracts. The significance of initiating this project lies in its potential to address the aforementioned challenges and enhance Reder Telecom's operations. Here are the top reasons that underline the importance of this project:
@@ -129,5 +130,23 @@ For Precision score: the Decision Tree model performed slightly better
 For Recall score: the Decision Tree model performed slightly better
 
 For F1 score: the Decision Tree model performed slightly better
+
+**From the decision matrix of both models**
+
+They both performed well at predicting customers that did not churn
+
+Howecer the Decision Tree performs better at predicting customers that churned.
+
+# CONCLUSION
+**The parameters that are most important in determining whether or not a customer will churn are:**
+
+1. The number of Service Interactions the customer has had with customer service through Call, Email and Chat
+   
+2. The number of times the customer has made Late Payments
+   
+3. The time spent on the company's website
+   
+4. And the Net Promoter Score (NPS) of the customer, which measures customer loyalty and satisfaction.
+      
 
 

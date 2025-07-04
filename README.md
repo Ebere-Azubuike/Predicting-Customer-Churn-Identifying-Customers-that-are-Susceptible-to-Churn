@@ -3,6 +3,7 @@
 The primary objective of this project is to develop a predictive model that can accurately forecast customer churn within the telecommunications industry. Specifically, the project aims to leverage historical customer data and relevant features to create a machine learning model capable of identifying customers who are likely to churn. The model's performance will be assessed using appropriate evaluation metrics. It includes data collection, Exploratory data analysis (EDA), feature engineering, model training, evaluation and documentation.
 
 **The objectives of this project are as follows:**
+
 Develop a predictive model to identify customers at risk of churning.
 
 Analyze the key factors contributing to customer churn.
@@ -17,7 +18,7 @@ Pricing pressures from competitors has affected profitability making competitive
 Network quality and performance issues that influence customer satisfaction, which leads to dissatisfaction and churning.
 Difficulty in building  and maintaining customer loyalty.
 # Why Churn Prediction
-<img width="218" alt="image" src="https://github.com/user-attachments/assets/2cb6ae82-807d-4da6-899a-721ddcef9480" />
+<img width="118" alt="image" src="https://github.com/user-attachments/assets/2cb6ae82-807d-4da6-899a-721ddcef9480" />
 
 Churn prediction is a strategy that uses customer data to identify clients who are least likely to renew their contracts. The significance of initiating this project lies in its potential to address the aforementioned challenges and enhance Reder Telecom's operations. Here are the top reasons that underline the importance of this project:
 

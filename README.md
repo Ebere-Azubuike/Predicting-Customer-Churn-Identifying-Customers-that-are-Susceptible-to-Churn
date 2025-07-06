@@ -103,6 +103,15 @@ Timestamp: The timestamp indicating when the data was recorded for the customer.
 4. Splitted the data into training and testing subsets
 5. Removed irrelevant features
 
+![image](https://github.com/user-attachments/assets/5e72fea9-0727-4570-9421-da0c5bbb6ff9)
+
+![image](https://github.com/user-attachments/assets/7a1f3ded-735b-44bc-b362-7c7370e56359)
+
+![image](https://github.com/user-attachments/assets/b34e4184-15b2-4554-8c83-421d213626a1)
+
+![image](https://github.com/user-attachments/assets/89c7bef2-91dd-465b-a4bd-6d845af90648)
+
+
 # Machine Learning Models
 1. Logistic Regression
 2. Decision Tree
